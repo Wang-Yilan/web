@@ -1,0 +1,55 @@
+/*
+* @Author: dell
+* @Date:   2019-06-11 09:32:37
+* @Last Modified by:   dell
+* @Last Modified time: 2019-06-11 15:51:29
+*/
+*{
+	margin:0 0;
+	padding:0 0;
+}
+li{
+	list-style:none;
+}
+#top4_1 li:hover{
+	text-decoration:none;
+	color:#ffffff;
+	background-color: #fd0403;
+}
+#top4_1 a:link{
+	text-decoration:none;
+	color:#333333;
+}
+#top4_1 a:hover{
+	text-decoration:none;
+	color:#ffffff;
+	background-color: #fd0403;
+}
+#bot1{
+	height:150px;
+	background-color: #2e2e2e;
+	color:#f5f5f5;
+}
+.bot1_1{
+	float:left;
+	margin-left:230px;
+	display:inline-block;
+	line-height:32px;
+}
+#bot2{
+	height:97px;
+	background-color: #2e2e2e;
+	color:#a4a4a4;
+	text-align:center;
+	line-height:40px;
+}
+#bot3{
+	height:1px;
+	background-color: #2e2e2e;
+}
+#bot3_1{
+	width:1400px;
+	height:1px;
+	margin-left: 200px;
+	background-color:#454545;
+}
